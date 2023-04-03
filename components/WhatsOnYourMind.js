@@ -84,7 +84,7 @@ const WhatsOnYourMind = () => {
           type="text"
           value={input}
           onChange={(e) => setInput(e.target.value)}
-          placeholder="What's on your mind?"
+          placeholder="What is it Now?"
         />
       </div>
 

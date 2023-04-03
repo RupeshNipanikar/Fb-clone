@@ -18,10 +18,10 @@ const FriendRequests = () => {
 
       <div className="mt-4 flex justify-end gap-2">
         <button className="bg-primary text-white py-2 px-5 rounded-lg">
-          Confirm
+          Follow back
         </button>
         <button className="bg-gray-300 text-black py-2 px-5 rounded-lg">
-          Delete
+          Remove
         </button>
       </div>
     </div>

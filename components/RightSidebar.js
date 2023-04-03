@@ -4,6 +4,11 @@ import { BiSearch, BiEdit } from "react-icons/bi";
 import { BsThreeDots } from "react-icons/bs";
 import FriendRequests from "./FriendRequests";
 import Contact from "./Contact";
+import Contac from "./Contac";
+import Conta from "./Conta";
+import Cont from "./Cont";
+import Conn from "./conn";
+import Co from "./co";
 
 const RightSidebar = () => {
   return (
@@ -29,12 +34,12 @@ const RightSidebar = () => {
               <BsThreeDots />
             </div>
           </div>
-
-          <Contact />
-          <Contact />
-          <Contact />
-          <Contact />
-          <Contact />
+        
+          <Contac />
+          <Conta />
+          <Cont />
+          <Conn />
+          <Co />
 
           <div className="bg-gray-300 h-[44px] w-[44px] grid place-items-center text-[26px] rounded-full fixed right-0 bottom-0 mr-8 mb-8">
             <BiEdit />

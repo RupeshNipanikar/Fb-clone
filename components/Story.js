@@ -9,34 +9,34 @@ import SingleStory from "./SingleStory";
 const Story = () => {
   const singleStoryData = [
     {
-      title: "Bill Gates",
-      img: "/bill_gates.jpg",
-      postImg: "bg-[url(/building.jpg)]",
+      title: "Tony Ferguson",
+      img: "/tony.jpg",
+      postImg: "bg-[url(/t.jpg)]",
     },
     {
-      title: "Elon Musk",
-      img: "/elon_musk.jpg",
-      postImg: "bg-[url(/gaming_mouse.jpg)]",
+      title: "Paul Walker",
+      img: "/paul.jpg",
+      postImg: "bg-[url(/supra.jpg)]",
     },
     {
-      title: "Bill Gates",
-      img: "/bill_gates.jpg",
-      postImg: "bg-[url(/building.jpg)]",
+      title: "Jhonny Deep",
+      img: "/jhon.jpg",
+      postImg: "bg-[url(/rum.jpg)]",
     },
     {
-      title: "Elon Musk",
-      img: "/elon_musk.jpg",
-      postImg: "bg-[url(/gaming_mouse.jpg)]",
+      title: "Chester Bennington ",
+      img: "/chest.jpg",
+      postImg: "bg-[url(/lp.jpg)]",
     },
     {
-      title: "Bill Gates",
-      img: "/bill_gates.jpg",
-      postImg: "bg-[url(/building.jpg)]",
+      title: "zoro",
+      img: "/zoro.jpg",
+      postImg: "bg-[url(/z.jpg)]",
     },
     {
-      title: "Elon Musk",
-      img: "/elon_musk.jpg",
-      postImg: "bg-[url(/gaming_mouse.jpg)]",
+      title: "Snoop Doog",
+      img: "/snoop.jpg",
+      postImg: "bg-[url(/s.jpg)]",
     },
   ];
 
