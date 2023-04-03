@@ -8,7 +8,7 @@ import Contac from "./Contac";
 import Conta from "./Conta";
 import Cont from "./Cont";
 import Conn from "./conn";
-import Co from "./co";
+import Co from "./Co";
 
 const RightSidebar = () => {
   return (
